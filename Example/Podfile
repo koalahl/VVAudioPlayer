@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VVAudioPlayer_Example' do
+  pod 'VVAudioPlayer', :path => '../'
+
+  target 'VVAudioPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
