@@ -1,0 +1,16 @@
+PODS:
+  - VVAudioPlayer (0.1.0)
+
+DEPENDENCIES:
+  - VVAudioPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  VVAudioPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VVAudioPlayer: f4240417cfaed2b9e3050a5d6fb243015e0a7e9b
+
+PODFILE CHECKSUM: 6bd8d53a993efd86f3c91236f935aa496c77ad5a
+
+COCOAPODS: 1.8.4
